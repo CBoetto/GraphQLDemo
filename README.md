@@ -1,0 +1,1 @@
+This is a simple GraphQL/React app for educational purposes.
